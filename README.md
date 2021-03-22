@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate on Voluntary and Community Projects.
 - 😄 Pronouns: ... Human/Male/Man :)
 - ⚡ Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 9 mile sausage in Hyde Park London. 
-- 📫 How to reach me: via LinkedIn.
+- 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/rishisinghbhachu/).
