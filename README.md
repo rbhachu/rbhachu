@@ -1,4 +1,4 @@
-### Hi, I'm Rishi Singh Bhachu, welcome to my GitHub Page! 👋
+### Hi, I'm Rishi and welcome to my GitHub Page! 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 
