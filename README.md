@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on creating a new portfolio site using React, Gatsby and WordPress.
-- 🌱 I’m currently learning PostGreSQL, Express, React, Node (PERN), plus Gatsby and TypeScript.
+- 🌱 I’m currently learning PostGreSQL, Express, React, Node (PERN Stack), plus Gatsby and TypeScript.
 - 👯 I’m looking to collaborate on Voluntary and Community Projects.
 - 😄 Pronouns: ... Human/Male/Man :)
 - ⚡ Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 9 mile sausage in Hyde Park London. 
