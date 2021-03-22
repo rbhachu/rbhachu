@@ -1,4 +1,4 @@
-### Howdy, I'm Rishi Singh Bhachu, and welcome to my GitHub Page! 👋
+### Hi, I'm Rishi Singh Bhachu, welcome to my GitHub Page! 👋
 
 <!--
 **rbhachu/rbhachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
