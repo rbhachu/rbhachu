@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on creating a new portfolio site using React, Gatsby and WordPress.
+- 🔭 I’m currently working on creating a new portfolio site (Headless CMS) using React, Gatsby and WordPress.
 - 🌱 I’m currently learning PostGreSQL, Express, React, Node (PERN Stack), plus Gatsby and TypeScript.
 - 👯 I’m looking to collaborate on Voluntary and Community Projects.
 - 😄 Pronouns: ... Human/Male/Man :)
