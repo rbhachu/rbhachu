@@ -30,5 +30,5 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/RishiSinghBhachu/"><img src="https://img.shields.io/badge/-RishiSinghBhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/RishiSinghBhachu/"><img src="https://img.shields.io/badge/-Rishi&nbsp;Singh&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!--<a href="mailto:mrbhachu@gmail.com"><img src="https://img.shields.io/badge/-mrbhachu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>-->
