@@ -14,11 +14,11 @@
 ![Postgressql](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
