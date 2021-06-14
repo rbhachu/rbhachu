@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 9 mile sausage in Hyde Park, London. (Spoiler Alert: The next day I became Vegan 🤢😄)
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/rishisinghbhachu/).</br></br>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack (PERN)
 ![Postgressql](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
