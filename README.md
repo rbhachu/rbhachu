@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on creating a new portfolio site using ReactJS and Gatsby
 - 🌱 I’m currently learning PostGreSQL, Express, React, Node (PERN Stack), plus Gatsby and TypeScript.
-- 👯 I’m looking to collaborate on Voluntary and Community Projects.
+- 👯 I’m looking to collaborate on Voluntary and Community Projects in my spare time.
 - 🎮 In my spare time I enjoy Gaming, Dj'ing and watching Movies.
 - ⚡ Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/rishisinghbhachu/).</br></br>
