@@ -34,6 +34,8 @@
 
 <a target="_blank" title="https://www.linkedin.com/in/RishiSinghBhachu/" href="https://www.linkedin.com/in/RishiSinghBhachu/"><img src="https://img.shields.io/badge/-Rishi&nbsp;Singh&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a target="_blank" title="https://stackoverflow.com/users/5238978/rishi-singh/" href="https://stackoverflow.com/users/5238978/rishi-singh/"><img src="https://img.shields.io/badge/-Rishi&nbsp;Singh&nbsp;Bhachu-000000?style=flat&logo=StackOverflow&logoColor=#F58025"/></a>
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5238978)](https://stackoverflow.com/users/5238978/rishi-singh)
+
+<!--<a target="_blank" title="https://stackoverflow.com/users/5238978/rishi-singh/" href="https://stackoverflow.com/users/5238978/rishi-singh/"><img src="https://img.shields.io/badge/-Rishi&nbsp;Singh&nbsp;Bhachu-000000?style=flat&logo=StackOverflow&logoColor=#F58025"/></a>-->
 
 <!--<a href="mailto:mrbhachu@gmail.com"><img src="https://img.shields.io/badge/-mrbhachu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>-->
