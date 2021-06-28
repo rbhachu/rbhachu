@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Voluntary and Community Projects.
 - 😄 Pronouns: ... Earthling/Human/Male/Man/Dude :)
 - 🎮 In my spare time I enjoy Gaming, Dj'ing and watching Movies.
-- ⚡ Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 9 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
+- ⚡ Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/rishisinghbhachu/).</br></br>
 
 ### 🛠 &nbsp;Tech Stack (PERN)
