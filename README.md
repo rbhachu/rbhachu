@@ -8,7 +8,7 @@
 - 🎮 In my spare time I enjoy Gaming, Dj'ing and watching Movies.
 - ⚡ Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/rishisinghbhachu/).
-- 📰 **Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-app-dynos-in-heroku).**
+- 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-app-dynos-in-heroku)**_
 </br>
 
 ## 🛠 &nbsp;Tech Stack (PERN)
