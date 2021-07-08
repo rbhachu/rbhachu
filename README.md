@@ -2,13 +2,13 @@
 </br>
 
 ## 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working on creating a new portfolio site using ReactJS and Gatsby
-- 🌱 I’m currently learning PostGreSQL, Express, React, Node (PERN Stack), plus Gatsby and TypeScript.
-- 👯 I’m seeking New Opportunities, and also looking to collaborate on Voluntary and Community Projects too.
+- ⚡ Im a Full-Stack Developer with over 15 years experience, currently based in London, UK.
+- 🌱 My current stack is PostGreSQL, Express, React, Node (PERN Stack), plus Gatsby and TypeScript.
+- 🔍 Seeking new opportunities in London, Manchester or Remotely too.
+- ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my spare time I enjoy Gaming, Dj'ing and watching classic Movies and TV Shows.
-- ⚡ Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
+- 😄 Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
 - 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-app-dynos-in-heroku)**_
-- 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/rishisinghbhachu/).
 </br>
 
 ## 🛠 &nbsp;Tech Stack (PERN)
