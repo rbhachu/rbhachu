@@ -3,7 +3,6 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 - ⚡ Im a Full-Stack Developer with over 15 years experience, currently based in London, UK.
-- 🌱 My current stack is PostGreSQL, Express, React, Node (PERN Stack), plus Gatsby and TypeScript.
 - 🔍 Seeking new opportunities in London, Manchester or Remotely too.
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my spare time I enjoy Gaming, Dj'ing and watching classic Movies and TV Shows.
@@ -11,7 +10,7 @@
 - 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-app-dynos-in-heroku)**_
 </br>
 
-## 🛠 &nbsp;Tech Stack (PERN)
+## 🛠 &nbsp;Developer Stack
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
