@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 - ⚡ Im a Full-Stack Developer with over 15 years experience, based in the UK.
-- 🔍 Seeking new opportunities in London, Manchester or Remotely too.
+- 🔍 Seeking new opportunities, including Remote roles too.
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my spare time I enjoy Gaming, Dj'ing and watching classic Movies and TV Shows.
 - 😄 Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
