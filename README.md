@@ -2,7 +2,7 @@
 </br>
 
 ## 👨🏻‍💻 &nbsp;About Me
-- ⚡ Im a Full-Stack Developer with over 15 years experience, currently based in London, UK.
+- ⚡ Im a Full-Stack Developer with over 15 years experience, based in the UK.
 - 🔍 Seeking new opportunities in London, Manchester or Remotely too.
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my spare time I enjoy Gaming, Dj'ing and watching classic Movies and TV Shows.
