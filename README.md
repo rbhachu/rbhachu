@@ -5,7 +5,7 @@
 - ⚡ Im a Full-Stack Developer with over 15 years experience, based in the UK.
 - 🔍 Seeking new opportunities, including Remote roles too.
 - ✍️ Also available for collaborattion on Voluntary and Community Projects.
-- 🎮 In my spare time I enjoy Gaming, Dj'ing and watching classic Movies and TV Shows.
+- 🎮 In my spare time I enjoy Gaming, Dj'ing, watching classic Movies/TV Shows &amp; Cooking.
 - 😄 Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
 - 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-app-dynos-in-heroku)**_
 </br>
