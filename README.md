@@ -37,5 +37,5 @@
 </br>
 
 ## 🤝🏻 &nbsp;Connect with Me
-<a target="_blank" title="https://www.linkedin.com/in/RishiSinghBhachu/" href="https://www.linkedin.com/in/RishiSinghBhachu/"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" title="https://www.bhachublog.com" href="https://www.bhachublog.com"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
