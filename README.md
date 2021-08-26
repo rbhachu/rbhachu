@@ -20,13 +20,28 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Adobe](https://img.shields.io/badge/-Adobe-333333?style=flat&logo=adobe)
+
+<!--
+![Enzyme](https://img.shields.io/badge/-Enzyme-333333?style=flat&logo=enzyme)
+![Rest](https://img.shields.io/badge/-REST-333333?style=flat&logo=rest)
+![Restful](https://img.shields.io/badge/-RESTful-333333?style=flat&logo=restful)
+![API](https://img.shields.io/badge/-API-333333?style=flat&logo=api)
+![API](https://img.shields.io/badge/-API-333333?style=flat&logo=rest-api)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+-->
 
 [![Rishi Bhachu StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5238978)](https://stackoverflow.com/users/5238978/rishi-singh)
 </br></br>
@@ -37,5 +52,5 @@
 </br>
 
 ## 🤝🏻 &nbsp;Connect with Me
-<a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" title="https://www.bhachublog.com" href="https://www.bhachublog.com"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
+<a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
