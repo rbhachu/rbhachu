@@ -1,7 +1,7 @@
 # Hi, I'm Rishi and welcome to my GitHub Page! 👋
 <br/>
 
-## 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me&nbsp;
 - ⚡ Im a Full-Stack Developer with over 15 years experience, based in the UK.
 - 🔍 Seeking new Fully Remote opportunities.
 - ✍️ Also available for collaborattion on Voluntary and Community Projects.
