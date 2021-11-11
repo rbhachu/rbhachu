@@ -45,7 +45,7 @@
 [![Rishi Bhachu StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5238978)](https://stackoverflow.com/users/5238978/rishi-singh)
 <br/><br/>
 
-## ⚙️ &nbsp;GitHub Stats
+## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbhachu&theme=nightowl)](https://git.io/streak-stats)
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbhachu&theme=nightowl&show_icons=true)
 <br/>
@@ -53,9 +53,9 @@
   <img src="https://komarev.com/ghpvc/?username=rbhachu">
 </a>
 
-### Most Used Languages
+### Most Used Languages&nbsp;&nbsp;
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Rishi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhachu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
 <a target="_blank" title="https://www.bhachublog.com" href="https://www.bhachublog.com"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
 <a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
