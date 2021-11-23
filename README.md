@@ -1,7 +1,7 @@
 # Hi, I'm Rishi and welcome to my GitHub Page! 👋
 <br/>
 
-## 👨🏻‍💻 &nbsp;About Me&nbsp;
+## 👨🏻‍💻 &nbsp;About Me&nbsp;&nbsp;
 - ⚡ Im a Full-Stack Developer with over 15 years experience, based in the UK.
 - 🔍 Seeking new Fully Remote opportunities.
 - ✍️ Also available for collaborattion on Voluntary and Community Projects.
@@ -10,7 +10,7 @@
 - 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
 <br/>
 
-## 🛠 &nbsp;Developer Stack&nbsp;
+## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=CD6799)
