@@ -10,6 +10,8 @@
 - 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
 <br/>
 
+<a href="https://app.daily.dev/rishisingh"><img src="https://api.daily.dev/devcards/ff1313d8730b40afa9ed28817011def1.png?r=lzy" width="400" alt="Rishi Singh's Dev Card"/></a>
+
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
