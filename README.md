@@ -2,7 +2,7 @@
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
-- ⚡ Im a Full-Stack Developer with over 15 years experience, based in the UK.
+- ⚡ Im a Software Engineer with over 10 years experience, based in the UK.
 <!-- 🔍 Seeking new Fully Remote opportunities. -->
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my spare time I enjoy Gaming, Dj'ing, Cooking, watching classic Movies/TV Shows &amp; breaking/building things.
