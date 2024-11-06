@@ -2,8 +2,7 @@
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
-- ⚡ Im a Software Engineer with over 10 years experience, based in the UK.
-<!-- 🔍 Seeking new Fully Remote opportunities. -->
+- ⚡ Experienced Software Engineer with 10+ years in web development, 3+ years in React for responsive, user-focused applications. Skilled in ES6+, HTML5, CSS3/Sass, delivering high-quality, scalable solutions.
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my spare time I enjoy Gaming, Dj'ing, Cooking, watching classic Movies/TV Shows &amp; breaking/building things.
 - 😄 Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
